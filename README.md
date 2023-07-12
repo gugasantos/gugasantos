@@ -1,9 +1,12 @@
-# <h1 align="center">👋 Oi! eu sou o Gustavo
+# <h1 align="center">👋 olá! eu sou o Gustavo
 
 ## ✨ Sobre mim
 
-- 🔭 Sou estudante de Análise e desenvolvimento de sistemas.
-- 🌱 Atualmente estou aprendendo Laravel, React e Python
+- 😄 Tenho 22 anos e atualmente moro em Brasília-DF
+- 📚  Sou estudante de Análise e desenvolvimento de sistemas.
+- 🌱 Atualmente estou estudando Docker e kubernetes.
+- :hammer: Atualmente trabalho como desenvolvedor no Icmbio.
+  
 ## 📈 Estatísticas do Github
 
 <details>
@@ -27,9 +30,26 @@
 ## 🗂️ Linguagens
 
 <div style="display: inline-block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" align="center" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" align="center" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" width="40" height="40" />
 </div>
 
+## 🛠 Ferramentas
+
+<div style="display: inline-block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="center" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" align="center" width="40" height="40" />
+</div>
 
 ## 🔗 Contate-me
 
