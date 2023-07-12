@@ -1,4 +1,4 @@
-# <h1 align="center">👋 Oi! eu sou o Gustavo [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.en.md) [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.es.md) [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.fr.md)</h1>
+# <h1 align="center">👋 Oi! eu sou o Gustavo
 
 ## ✨ Sobre mim
 
@@ -12,7 +12,7 @@
 <details>
   <summary>Estatísticas do perfil do GitHub</summary>
   <div align="left">
-    <a href="https://github.com/viniciusvasconcelosferreira">
+    <a href="https://github.com/gugasantos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusvasconcelosferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
     </a>
   </div>
@@ -21,8 +21,8 @@
 <details>
   <summary>Linguagens mais usadas</summary>
   <div align="left">
-    <a href="https://github.com/viniciusvasconcelosferreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvasconcelosferreira&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+    <a href="https://github.com/gugasantos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugasantos&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
     </a>
   </div>
 </details>
@@ -64,16 +64,16 @@
 ## 🔗 Contate-me
 
 <div>
-  <a href = "mailto:viniciusvasconcelos.ferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-vasconcelos-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavo.santosit@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-santos-71921318b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Vinicius_Ferreira" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
 ## 😋 Divirta-se
 
 <div align="center">
-  <!--![Snake animation](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg)-->
-  <img src="https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg">
+  <!--![Snake animation](https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg)-->
+  <img src="https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg">
 </div>
 <br/>
 <strong>Você gostou? Isso é ótimo 😄</strong>
