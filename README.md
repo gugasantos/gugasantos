@@ -65,3 +65,11 @@
   <a href="https://www.linkedin.com/in/gustavo-santos-71921318b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+
+## 😋 Divirta-se
+
+<div align="center">
+  <!--![Snake animation](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg)-->
+  <img src="https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg">
+</div>
+
