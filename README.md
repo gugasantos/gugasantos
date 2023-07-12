@@ -1,4 +1,4 @@
-# <h1 align="center">👋 olá! eu sou o Gustavo
+# <h1 align="center">👋 Olá! eu sou o Gustavo
 
 ## ✨ Sobre mim
 
