@@ -1,3 +1,6 @@
+<img align="right" width="250px" style="margin-top:-20px" src="https://ibb.co/2636fjv">
+
+
 # <h1 align="center">👋 Olá! eu sou o Gustavo
 
 ## ✨ Sobre mim
@@ -36,6 +39,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="center" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" align="center" width="40" height="40" />
 </div>
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 ## 🔗 Contate-me
 
