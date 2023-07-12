@@ -66,17 +66,5 @@
 <div>
   <a href = "mailto:gustavo.santosit@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-santos-71921318b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/Vinicius_Ferreira" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
-## 😋 Divirta-se
-
-<div align="center">
-  <!--![Snake animation](https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg)-->
-  <img src="https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg">
-</div>
-<br/>
-<strong>Você gostou? Isso é ótimo 😄</strong>
-<br/>
-<p>Se você quiser me comprar um café ou chá para que possamos conversar em algum momento 🙄😉</p>
-<a href="https://www.buymeacoffee.com/viniferreira" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
