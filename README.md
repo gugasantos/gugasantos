@@ -2,11 +2,8 @@
 
 ## ✨ Sobre mim
 
-- 🔭 Sou estudante de Ciência da Computação na UnB
-- 🌱 Atualmente estou aprendendo Laravel, React, Power Apps e Python
-- 😄 Pronomes: ele/dele
-- ⚡ <i>Programar é como escrever um livro. Se você perder uma única vírgula na página 156, a coisa toda não faz sentido - Sioeray</i>
-
+- 🔭 Sou estudante de Análise e desenvolvimento de sistemas.
+- 🌱 Atualmente estou aprendendo Laravel, React e Python
 ## 📈 Estatísticas do Github
 
 <details>
