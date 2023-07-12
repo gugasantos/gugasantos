@@ -16,24 +16,6 @@
 </a>
 </p>
 
-<details>
-  <summary>Estatísticas do perfil do GitHub</summary>
-  <div align="left">
-    <a href="https://github.com/gugasantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusvasconcelosferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-    </a>
-  </div>
-</details>
-
-<details>
-  <summary>Linguagens mais usadas</summary>
-  <div align="left">
-    <a href="https://github.com/gugasantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugasantos&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
-    </a>
-  </div>
-</details>
-
 ## 🗂️ Linguagens
 
 <div style="display: inline-block"><br>
