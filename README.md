@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://ibb.co/2636fjv">
+<img align="right" width="250px" style="margin-top:-20px" src="https://ibb.co/2636fjv][img]https://i.ibb.co/W3v3Yck/octocat-1689183430082.png">
 
 
 # <h1 align="center">👋 Olá! eu sou o Gustavo
