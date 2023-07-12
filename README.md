@@ -7,14 +7,11 @@
 - 🌱 Atualmente estou estudando Docker e kubernetes.
 - :hammer: Atualmente trabalho como desenvolvedor no Icmbio.
   
-## 📈 Estatísticas do Github
 
-<p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gugasantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gugasantos&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <!--![Snake animation](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg)-->
+  <img src="https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 ## 🗂️ Linguagens
 
@@ -48,10 +45,11 @@
 </div>
 
 
-## 😋 Divirta-se
+## 📈 Estatísticas do Github
 
-<div align="center">
-  <!--![Snake animation](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg)-->
-  <img src="https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg">
-</div>
-
+<p align="center">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gugasantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gugasantos&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
