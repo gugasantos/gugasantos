@@ -8,7 +8,7 @@
 - 😄 Tenho 22 anos e atualmente moro em Brasília-DF
 - 📚  Sou estudante de Análise e desenvolvimento de sistemas.
 - 🌱 Atualmente estou estudando Docker e kubernetes.
-- :hammer: Atualmente trabalho como desenvolvedor no Icmbio.
+- :hammer: Trabalho como desenvolvedor no Icmbio.
   
 
 <div align="center">
