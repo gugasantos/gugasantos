@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/6Z0Zf4H/octocat-1689183430082.png">
+ <!--<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/6Z0Zf4H/octocat-1689183430082.png">-->
 
 
 # <h1 align="center">👋 Olá! eu sou o Gustavo
@@ -13,7 +13,7 @@
 
 <div align="center">
   <!--![Snake animation](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg)-->
-  <img src="https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg">
+   <!--<img src="https://github.com/gugasantos/gugasantos/blob/output/github-contribution-grid-snake.svg">-->
 </div>
 
 ## 🗂️ Linguagens
