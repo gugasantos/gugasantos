@@ -5,8 +5,8 @@
 
 ## ✨ Sobre mim
 
-- 😄 Tenho 22 anos e atualmente moro em Brasília-DF
-- 📚  Sou estudante de Análise e desenvolvimento de sistemas.
+- 😄 Tenho 244 anos e atualmente moro em Brasília-DF
+- 📚  Sou formado em Análise e desenvolvimento de sistemas.
 - 🌱 Atualmente estou estudando Docker e kubernetes.
 - :hammer: Trabalho como desenvolvedor no Icmbio.
   
