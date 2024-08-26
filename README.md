@@ -5,7 +5,7 @@
 
 ## ✨ Sobre mim
 
-- 😄 Tenho 244 anos e atualmente moro em Brasília-DF
+- 😄 Tenho 24 anos e atualmente moro em Brasília-DF
 - 📚  Sou formado em Análise e desenvolvimento de sistemas.
 - 🌱 Atualmente estou estudando Docker e kubernetes.
 - :hammer: Trabalho como desenvolvedor no Icmbio.
